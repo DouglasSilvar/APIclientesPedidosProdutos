@@ -1,14 +1,6 @@
 # Modelo de domínio: como implementar no Spring
 
-#### DevSuperior - Nelio Alves
 
-[![Image](https://img.youtube.com/vi/OX5MmJrFTdw/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/OX5MmJrFTdw)
-
-Siga-nos:
-
-https://instagram.com/devsuperior.ig
-
-https://youtube.com/devsuperior
 
 ## Trechos de código
 
